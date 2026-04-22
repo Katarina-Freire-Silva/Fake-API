@@ -1,0 +1,26 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "M-Tec-PI - Desenvolvimento de Sistemas",
+            "disciplinas": ["Língua Portuguesa", "PAM II", "BD"],
+            "carga-horária": 3600
+        },
+
+        {
+            "id": 2,
+            "nome": "M-Tec-N - Informática para Internet",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horária": 1200
+        },
+
+        {
+            "id": 2,
+            "nome": "M-Tec-N - Informática",
+            "disciplinas": ["WEB III", "PAM II", "BD"],
+            "carga-horária": 1200
+        },
+
+        
+    ]
+}
