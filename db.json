@@ -3,23 +3,87 @@
         {
             "id": 1,
             "nome": "M-Tec-PI - Desenvolvimento de Sistemas",
-            "disciplinas": ["Língua Portuguesa", "PAM II", "BD"],
+            "disciplinas": [
+                "Língua Portuguesa", 
+                "Língua Inglesa", 
+                "Língua Espanhola", 
+                "Matemática", 
+                "Biologia", 
+                "Geografia", 
+                "Filosofia", 
+                "Sociologia", 
+                "Estudos Avançados em Ciências da Natureza e suas Tecnologias", 
+                "Estudos Avançados em Matemática e suas Tecnologias", 
+                "Programação Web III", 
+                "Programação de Aplicativos Mobile II", 
+                "Internet, Protocolos e Segurança de Sistemas da Informação", 
+                "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas", 
+                "Qualidade e Teste de Software", 
+                "Sistemas Embarcados"
+            ],
             "carga-horária": 3600
         },
 
         {
             "id": 2,
             "nome": "M-Tec-N - Informática para Internet",
-            "disciplinas": ["WEB III", "PAM II", "BD"],
-            "carga-horária": 1200
+            "disciplinas": [
+                "Língua Portuguesa", 
+                "Língua Inglesa", 
+                "Língua Espanhola", 
+                "Matemática",
+                "Filosofia", 
+                "História",
+                "Geografia",
+                "Sociologia", 
+                "Computação em Nuvem para Web II",
+                "Sistemas Web II",
+                "Desenvolvimento para Dispositivos Móveis II", 
+                "Usabilidade, Design de Interação e Acessibilidade Digital", 
+                "Gestão de Conteúdo Web", 
+                "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Informática para Internet", 
+                "Introdução à Internet das Coisas, Redes de Computadores e Segurança da Informação"
+            ],
+            "carga-horária": 3000
         },
 
         {
-            "id": 2,
+            "id": 3,
             "nome": "M-Tec-N - Informática",
-            "disciplinas": ["WEB III", "PAM II", "BD"],
-            "carga-horária": 1200
+            "disciplinas": [
+                "Língua Portuguesa - Literatura e Comunicação Profissional", 
+                "Língua Estrangeira Moderna - Inglês e Comunicação Profissional", 
+                "Língua Estrangeira Moderna - Espanhol", 
+                "Matemática",
+                "Biologia", 
+                "Filosofia", 
+                "Sociologia", 
+                "Gestão de Sistemas Operacionais II",
+                "Redes de Comunicação de Dados II",
+                "Computação em Nuvem e Mídias Sociais",
+                "Ética e Cidadania Organizacional",
+                "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Informática", 
+                "Segurança Digital", 
+                "Sistemas de Tecnologia de Informação e Comunicação"
+            ],
+            "carga-horária": 3000
         },
+
+        {
+            "id": 4,
+            "nome": "Técnico em Informática",
+            "disciplinas": [
+                "Inglês Instrumental", 
+                "Gestão de Sistemas Operacionais III",
+                "Redes de Comunicação de Dados II",
+                "Internet das Coisas",
+                "Computação em Nuvem e Mídias Sociais",
+                "Ética e Cidadania Organizacional",
+                "Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Informática", 
+                "Segurança Digital"
+            ],
+            "carga-horária": 1200
+        }
 
         
     ]
