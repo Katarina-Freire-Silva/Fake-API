@@ -84,7 +84,7 @@
             ],
             "carga-horária": 1200
         }
-    ]
+    ],
 
     "professores":[
         {"id": 1, "nome": "Jean"},
